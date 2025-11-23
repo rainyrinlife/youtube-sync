@@ -1,0 +1,5 @@
+{
+  "name": "youtube-sync",
+  "description": "A professional tool to extract YouTube playlists to CSV and restore them. Features OAuth 2.0 authentication and local file system access.",
+  "requestFramePermissions": []
+}
